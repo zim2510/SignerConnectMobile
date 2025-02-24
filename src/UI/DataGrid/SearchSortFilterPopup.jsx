@@ -7,7 +7,7 @@ export default function SearchSortFilterPopup() {
         <p className="text-sm">
           Will be implemented in next iteration, if I am paid for it. 😆😅🤣{" "}
           <br />
-          Already spent over 75 hours! 🤯 <br />
+          Already spent 60+ hours! 🤯 <br />
           This can be used for a range of stuffs, like filtering by Order Status
           (New, Documents Required etc.), Lender etc.{" "}
         </p>

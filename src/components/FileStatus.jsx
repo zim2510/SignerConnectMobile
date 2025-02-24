@@ -69,8 +69,8 @@ export default function FileStatus() {
       key: `party${index}.contact`,
       name: `Contact`,
       value:
-        party.mobilePhoneNumber ??
-        party.homePhoneNumber ??
+        party.mobilePhoneNumber ||
+        party.homePhoneNumber ||
         party.workPhoneNumber,
     });
 
